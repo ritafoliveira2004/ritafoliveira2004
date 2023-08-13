@@ -2,7 +2,7 @@
 - 💻 Erasmus Student | Czech Republic
 - 🌱 I’m currently learning React and VueJs
 - 💞️ I love programming with music
-- 📫 I'm also on twitter (x.com)
+- 📫 I'm also on Twitter (x.com)
 
 <!---
 ritafoliveira2004/ritafoliveira2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
